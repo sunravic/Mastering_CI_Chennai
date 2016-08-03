@@ -1,0 +1,19 @@
+2016-08-03 15:33:22,407 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BankApp:BankApp:0.0.1-SNAPSHOT @ D:\Demo\BankApp\pom.xml.
+2016-08-03 15:33:24,717 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BankApp/src/main/java
+2016-08-03 15:33:24,717 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BankApp/src/test/java
+2016-08-03 15:33:24,826 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2016-08-03 15:33:24,842 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BankApp:BankApp:0.0.1-SNAPSHOT @ D:\Demo\BankApp\pom.xml.
+2016-08-03 15:33:26,448 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-08-03 15:33:26,448 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Demo\BankApp\src\main\resources
+2016-08-03 15:33:26,448 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-08-03 15:33:26,448 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Demo\BankApp\src\test\resources
+2016-08-03 15:33:41,175 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-08-03 15:33:47,649 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Demo\BankApp
+2016-08-03 15:33:47,649 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-08-03 15:35:20,251 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-08-03 15:35:20,251 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Demo\BankApp\src\main\resources
+2016-08-03 15:35:20,251 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-08-03 15:35:20,251 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Demo\BankApp\src\test\resources
+2016-08-03 15:35:25,555 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-08-03 15:35:25,601 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Demo\BankApp
+2016-08-03 15:35:25,601 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
